@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.217" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_add_item.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_add_item_name.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_cart_page.xml" value="0.2346014492753623" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_end_shopping.xml" value="0.264" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_item_detail.xml" value="0.264" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_registration.xml" value="0.2359375" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/activity_registration_page.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/item_card.xml" value="0.264" />
+        <entry key="..\:/Android Studio Project Collection/Mobile Application Development CW/app/src/main/res/layout/iterm_cart.xml" value="0.25" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/activity_add_item.xml" value="0.25" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/activity_add_item_name.xml" value="0.25" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/activity_cart_page.xml" value="0.25" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/activity_end_shopping.xml" value="0.25" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/activity_item_detail.xml" value="0.25" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/activity_registration_page.xml" value="0.264" />
+        <entry key="..\:/NIBM Files/MAD Project File/Selfzen-Application/Selfzen/app/src/main/res/layout/iterm_cart.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

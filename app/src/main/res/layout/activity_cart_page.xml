@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.CartPage">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvProducts"
+        android:layout_width="334dp"
+        android:layout_height="402dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_finsh"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:listitem="@layout/iterm_cart" />
+
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="150dp"
+        android:layout_height="85dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="32dp"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Cart"
+        android:textAlignment="center"
+        android:textColor="#43A047"
+        android:textSize="80sp"
+        app:layout_constraintBottom_toTopOf="@+id/rvProducts"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.691" />
+
+    <Button
+        android:id="@+id/btn_finsh"
+        android:layout_width="137dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="16dp"
+        android:text="Finsh"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/image_cart"
+        android:layout_width="161dp"
+        android:layout_height="158dp"
+        android:layout_marginStart="36dp"
+        android:src="@drawable/image_cart"
+        app:layout_constraintBottom_toTopOf="@+id/rvProducts"
+        app:layout_constraintEnd_toStartOf="@+id/text"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

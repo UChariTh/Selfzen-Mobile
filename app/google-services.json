@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40843627912",
+    "firebase_url": "https://selfzen-database-default-rtdb.firebaseio.com",
+    "project_id": "selfzen-database",
+    "storage_bucket": "selfzen-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40843627912:android:391a17643c985ff1c73e3d",
+        "android_client_info": {
+          "package_name": "com.example.selfzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40843627912-6gf4d80mkgmovqpm7cg57u9v740dkmh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAic8ip5eGLQOTGDttQDGmQgYix1_01M14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40843627912-6gf4d80mkgmovqpm7cg57u9v740dkmh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
